@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to changnaijie's homepage
 
 You can use the [editor on GitHub](https://github.com/amtbchang/changnaijie.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,12 +26,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amtbchang/changnaijie.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>常乃杰</h1>
+      <p><b>博士研究生</b></p>
+      <p><b>中国农业科学院农业资源与农业区划所</b></p>
+      <p><b>邮箱：changnaijie@gmail.comm</b></p>
+      <p><b>地址：北京海淀区中关村南大街12号 邮编100086</b></p>
+    </td>
+    <td width="25%">
+      <img src="/生活照.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
