@@ -9,7 +9,7 @@
       <h1>常乃杰</h1>
       <p><b>博士研究生</b></p>
       <p><b>中国农业科学院农业资源与农业区划所</b></p>
-      <p><b>邮箱：changnaijie@gmail.comm</b></p>
+      <p><b>邮箱：changnaijie@gmail.com</b></p>
       <p><b>地址：北京海淀区中关村南大街12号 邮编100086</b></p>
     </td>
     <td width="25%">
