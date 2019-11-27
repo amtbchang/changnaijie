@@ -16,7 +16,7 @@
       <p><b>地址：北京海淀区中关村南大街12号 邮编100086</b></p>
     </td>
     <td width="25%">
-      <img src="/生活照.jpg" width="100%" alt="个人简介" />      
+      <img src="../生活照.jpg"  width="100%" alt="个人简介" />      
     </td>
   </tr>
 </table>
