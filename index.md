@@ -1,6 +1,9 @@
 # Welcome to changnaijie's homepage
-## 在路上
+## **在路上**
+### ~~不努力~~
+>陈迪曾经说，要好吃好喝，好好学习！
 
+![生活照](/生活照.jpg ''cnj'')
 
 
 <table border="0">
